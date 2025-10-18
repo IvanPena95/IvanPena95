@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanpena95&label=Profile%20views&color=0e75b6&style=flat" alt="ivanpena95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanpena95" alt="ivanpena95" /></a> </p>
+- 🔭 I’m currently studying the course: [a workshop called: Advanced Python Practices Applied to Time Series](https://economicas.unam.mx/actividades/practicas-python-2025)
 
-- 🔭 I’m currently studying on [Advanced Python Practices Applied to Time Series](https://economicas.unam.mx/actividades/practicas-python-2025)
-
-- 🌱 I’m currently learning [Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- 👯 I’m currently learning: [Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 - 📫 How to reach me **ivan.pena@cimat.mx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ivan-dario-pena-camargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ivan-dario-pena-camargo" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle.com/ivandariopenacamargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/ivandariopenacamargo" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/euc.pit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/euc.pit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ivan-dario-pena-camargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan-dario-pena-camargo" height="30" width="40" /></a>
+<a href="https://kaggle.com/ivandariopenacamargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ivandariopenacamargo" height="30" width="40" /></a>
+<a href="https://fb.com/euc.pit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="euc.pit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
