@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanpena95" alt="ivanpena95" /></a> </p>
 
-- 🔭 I’m currently studying on [a workshop called: Advanced Python Practices Applied to Time Series](https://economicas.unam.mx/actividades/practicas-python-2025)
+- 🔭 I’m currently studying on [Advanced Python Practices Applied to Time Series](https://economicas.unam.mx/actividades/practicas-python-2025)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning [Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 - 📫 How to reach me **ivan.pena@cimat.mx**
 
