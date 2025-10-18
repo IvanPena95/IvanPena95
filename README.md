@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanpena95&label=Profile%20views&color=0e75b6&style=flat" alt="ivanpena95" /> </p>
 
-- 🔭 I’m currently studying the course: [a workshop called: Advanced Python Practices Applied to Time Series](https://economicas.unam.mx/actividades/practicas-python-2025)
+- 🔭 I’m currently studying the course: [Advanced Python Practices Applied to Time Series](https://economicas.unam.mx/actividades/practicas-python-2025)
 
 - 👯 I’m currently learning: [Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
