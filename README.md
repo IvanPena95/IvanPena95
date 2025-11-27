@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Iván Darío Peña Camargo</h1>
-<h3 align="center">Applied mathematician and MSc graduate with strong foundations in numerical analysis, optimization, and computational modeling. Experienced in solving inverse problems, implementing mathematical algorithms in multiple programming languages, and analyzing complex systems across biological, engineering, epidemiological, financial and population domains. Skilled in working with real and synthetic datasets, performing statistical analysis, validating models, and translating results into actionable insights. Motivated by rigorous problem-solving, continuous learning, and applying mathematical and data-driven methods to support decision-making and innovation.</h3>
+<h3 align="center">Mathematician and Master in Applied Mathematics with strong foundations in numerical analysis, numerical methods, optimization, and computational modeling. Experienced in solving inverse problems, implementing mathematical algorithms in multiple programming languages, and analyzing complex systems across biological, engineering, epidemiological, financial, and population domains. Skilled in working with real and synthetic datasets, performing statistical analysis, validating models, and translating results into actionable insights. Motivated by rigorous problem-solving, continuous learning, and the application of mathematical and data-driven methods to support decision-making and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanpena95&label=Profile%20views&color=0e75b6&style=flat" alt="ivanpena95" /> </p>
 
-- 🔭 I’m currently studying the course: [Advanced Python Practices Applied to Time Series](https://economicas.unam.mx/actividades/practicas-python-2025)
+- 🔭 I’m currently studying the course: [Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
-- 👯 I’m currently learning: [Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- 👯 I’m currently learning: [Pandas](https://www.kaggle.com/learn/pandas)
 
-- 📫 How to reach me **ivan.pena@cimat.mx**
+- 📫 How to reach me **ivan.pena@cimat.mx** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
